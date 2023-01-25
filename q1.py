@@ -24,5 +24,5 @@ for i in ages:
 average = sum/n # sum/no.of elements
 print("average = ", average)
 # finding range
-range = max_age - min_age
-print("range = ", range)
+age_range = max_age - min_age
+print("range = ", age_range)
